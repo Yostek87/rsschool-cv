@@ -1,0 +1,78 @@
+CV Palamarchuk
+
+Ivan Palamarchuk
+
+[
+
+ipalam87@gmail.com
+
+](mailto:ipalam87@gmail.com)
+
+### CV Highlights
+
+#### Contacts with me:
+
+#### Skype [ipalam87@outlook.com](ipalam87@outlook.com)
+
+Telegram, Viber [tel: +380961828457](tel: +380961828457)
+
+*   Currently going through CS50
+*   Learn basic Python, JavaScript, HTML, CSS on Codecademy.com.
+*   An independent, dedicated, efficient person. These attributes are proved through the series of courses I have taken or I am taking as of now independently through online platforms.
+*   Good Communication Skills, Presentation Skills, attitude towards leadership, authorisation and delegation, conflict resolution and negotiation and a very good team worker.
+
+### Educational Qualifications
+
+Qualification
+
+University
+
+Specialty/Faculty
+
+City
+
+Year
+
+Specialist
+
+Vinnytsia State Pedagogical University
+
+History and Law
+
+Vinnytsia
+
+2009
+
+### Independent Courses
+
+*   HTML & CSS for Beginners – Web Fundamentals – Codecademy.com
+*   Python – Fundamentals and Dynamic Programming - Codecademy.com
+*   JavaScript – Programming Basics - Codecademy.com
+*   CS50 – prometheus.com
+*   JavaScript для начинаюших – Stepik.org
+
+### Technical Skills
+
+*   Operating Systems: Windows 7, Windows 10, Linux (Ubuntu, Mint)
+*   Application Software:VMware Workstation Pro, MS Office 2019, Adobe Dreamweaver 2020, JetBrains WebStorm, PyCharm Community Edition, Visual Studio Code, GitHub Desktop
+*   Programming Skills:HTML, CSS, Python, JavaScript
+
+#### Example from my code: (please open the console on this page to see more :) )
+
+#### This is the part of the code that is intended for the site to work with the history quiz
+
+### Personal Information:
+
+*   A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.
+*   Languages Known: English(A2), Ukrainian, Russian
+*   Hobbies: I love reading IT related books / magazines, playing Chess, listening music, surfing Internet, watching football, playing PC games, self-learning through e-courses.
+
+### Other Information
+
+*   Expected Salary: As per company standards
+*   Area of Interest: Software Development, Programming, Start-ups, Coding, App Development
+*   Joining Date: Immediately
+
+### Declaration
+
+I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.
